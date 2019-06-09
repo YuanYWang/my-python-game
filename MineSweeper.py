@@ -4,7 +4,7 @@ import MineSweeperClass
 WHITE = (255, 255, 255)
 RED = (255, 0, 0)
 
-# This sets the WIDTH and HEIGHT of each grid location
+# This sets the WIDTH and HEIGHT of each grid location!
 WIDTH = 20
 HEIGHT = 20
 
